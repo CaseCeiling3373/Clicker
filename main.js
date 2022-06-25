@@ -24,7 +24,7 @@ function volumeControl(){
 
 function audioPlay(){
     audio.pause();
-    audio = new Audio('music/' + audioList[nowPlaying]);
+    audio = new Audio('./Music/' + audioList[nowPlaying]);
     nowPlaying = nowPlaying + 1;
     nowPlaying = nowPlaying % audioList.length;
     audio.play();
