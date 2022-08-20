@@ -1,3 +1,3 @@
 # Clicker
-https://ea-is-overpriced.github.io/Clicker/
+https://caseceiling3373.github.io/Clicker/
 mouse go brrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
